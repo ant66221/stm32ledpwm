@@ -25,7 +25,7 @@ void app() {
 
 	while(1){
 		static int angleR = 0;
-		static int angleG = 120;
+		static int angleG = 121;
 		static int angleB = 240;
 		angleR++;
 		angleG++;
